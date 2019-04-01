@@ -14,4 +14,4 @@
 
 ### License 
 
-Theme is licensed under MIT license © 2018 - Chuck
+Theme is licensed under MIT license © 2018 - Chuck# chuckcms-template-barcelona
